@@ -1,5 +1,5 @@
 #Menu
 ##Panini
--Goloso 
--Romagna
--Vegetariano
+-[Goloso](paninoPrimavera.md)
+-[Romagna](paninoRomagna.md)
+-[Vegetariano](paninoVegetariano.md)
