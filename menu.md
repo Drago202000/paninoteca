@@ -1,7 +1,4 @@
 #Menu
-##Panini
--[Goloso](paninoPrimavera.md)
--[Romagna](paninoRomagna.md)
--[Vegetariano](paninoVegetariano.md)
+##Panini -[Goloso](panini/paninoPrimavera.md) -[Romagna](panini/paninoRomagna.md) -[Vegetariano](panini/paninoVegetariano.md)
 
 Paninoteca Bolognese
