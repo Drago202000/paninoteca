@@ -3,6 +3,6 @@
 
 ## Fritti
 
--[Olive ascolane](fritti/olive.md)
+- [Arancini](fritti/arancini.md) -[Olive ascolane](fritti/olive.md)
 
 Paninoteca Bolognese
